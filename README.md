@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ellen 
 - 🌱 I’m a Master's student studying Informations System and Data Analytics at Carnegie Mellon University
 - 👀 I’m interested in ML/DL models and big data techniques :) 
-- 🤔 I'm looking for Intern opportunities for Summer 2024
+- 🤔 I'm looking for intern opportunities for Summer 2024
 - 📫 Feel free to reach me at ellensong99@gmail.com
 
 <!---
